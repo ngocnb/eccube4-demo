@@ -1,0 +1,9 @@
+.idea/*
+vendor/*
+var/cache/*
+var/log/*
+var/sessions/*
+
+access.log
+error.log
+.env
